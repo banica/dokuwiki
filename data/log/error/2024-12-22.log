@@ -1,0 +1,26 @@
+2024-12-22 15:25:45	C:\xampp\htdocs\dokuwiki\inc\Ui\Recent.php(165)	E_WARNING: Trying to access array offset on value of type bool
+  #0 C:\xampp\htdocs\dokuwiki\inc\Ui\Recent.php(165): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 165)
+  #1 C:\xampp\htdocs\dokuwiki\inc\Ui\Recent.php(78): dokuwiki\Ui\Recent->checkCurrentRevision(Array)
+  #2 C:\xampp\htdocs\dokuwiki\inc\Action\Recent.php(42): dokuwiki\Ui\Recent->show()
+  #3 C:\xampp\htdocs\dokuwiki\inc\template.php(120): dokuwiki\Action\Recent->tplContent()
+  #4 [internal function]: tpl_content_core('recent')
+  #5 C:\xampp\htdocs\dokuwiki\inc\Extension\Event.php(134): call_user_func_array('tpl_content_cor...', Array)
+  #6 C:\xampp\htdocs\dokuwiki\inc\Extension\Event.php(200): dokuwiki\Extension\Event->trigger('tpl_content_cor...', true)
+  #7 C:\xampp\htdocs\dokuwiki\inc\template.php(102): dokuwiki\Extension\Event::createAndTrigger('TPL_ACT_RENDER', 'recent', 'tpl_content_cor...')
+  #8 C:\xampp\htdocs\dokuwiki\lib\tpl\dokuwiki\main.php(60): tpl_content()
+  #9 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #10 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #11 {main}
+2024-12-22 15:26:54	C:\xampp\htdocs\dokuwiki\inc\Ui\Recent.php(165)	E_WARNING: Trying to access array offset on value of type bool
+  #0 C:\xampp\htdocs\dokuwiki\inc\Ui\Recent.php(165): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 165)
+  #1 C:\xampp\htdocs\dokuwiki\inc\Ui\Recent.php(78): dokuwiki\Ui\Recent->checkCurrentRevision(Array)
+  #2 C:\xampp\htdocs\dokuwiki\inc\Action\Recent.php(42): dokuwiki\Ui\Recent->show()
+  #3 C:\xampp\htdocs\dokuwiki\inc\template.php(120): dokuwiki\Action\Recent->tplContent()
+  #4 [internal function]: tpl_content_core('recent')
+  #5 C:\xampp\htdocs\dokuwiki\inc\Extension\Event.php(134): call_user_func_array('tpl_content_cor...', Array)
+  #6 C:\xampp\htdocs\dokuwiki\inc\Extension\Event.php(200): dokuwiki\Extension\Event->trigger('tpl_content_cor...', true)
+  #7 C:\xampp\htdocs\dokuwiki\inc\template.php(102): dokuwiki\Extension\Event::createAndTrigger('TPL_ACT_RENDER', 'recent', 'tpl_content_cor...')
+  #8 C:\xampp\htdocs\dokuwiki\lib\tpl\dokuwiki\main.php(60): tpl_content()
+  #9 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #10 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #11 {main}

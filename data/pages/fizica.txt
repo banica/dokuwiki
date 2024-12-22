@@ -1,0 +1,26 @@
+===== Fizica =====
+
+=== Clasa a IX-a ===
+
+== Principii si legi in mecanica netwoniana ==
+  - [[Fizica:Mărimi fizice]]
+  - [[Fizica:Mişcare şi repaus]]
+  - [[Fizica:Viteza]]
+  - [[Fizica:Acceleraţia]]
+  - [[Mişcarea rectilinie uniformă]]
+  - [[Mișcarea circulară uniformă]]
+  - [[Principiul I al mecanicii]]
+  - [[Principiul al II-lea al mecanicii]]
+  - [[Principiul al III-lea al mecanicii ]]
+  - [[Forța de greutate]]
+  - [[Deformarea elastică. Forţa elastică]]
+  - [[Forţa de frecare. Legile frecării]]
+
+== Teoreme de variatie si legi de conservare in mecanica ==
+
+  - [[Lucrul mecanic ]]
+  - [[Puterea mecanica. Randamentul mecanic]]
+  - [[Energia mecanică]]
+
+
+
